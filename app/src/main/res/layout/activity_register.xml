@@ -23,6 +23,12 @@
             android:text="Register"
             android:textSize="50dp" />
         <EditText
+            android:id="@+id/eddisname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:hint="displayname"/>
+        <EditText
             android:id="@+id/edReUser"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
